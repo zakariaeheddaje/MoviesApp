@@ -1,0 +1,28 @@
+.player{
+    position: fixed;
+    margin-top: 15px;
+    z-index: 1;
+}
+
+.Container{
+    display: none;
+    position: absolute;
+    z-index: 100;
+}
+#TrailerMovie-name-light{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 55px;
+    font-size: 2.5rem;
+    color: #0f0f0f;
+}
+
+#TrailerMovie-name-dark{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 55px;
+    font-size: 2.5rem;
+    color: hsl(29, 100%, 41%);
+}
