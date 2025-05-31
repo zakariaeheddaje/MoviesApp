@@ -1,4 +1,3 @@
-markdown
 # 🎥 MyFlix
 
 Welcome to **MyFlix** – a sleek, responsive movie app where you can discover popular films, view detailed info, and enjoy a smooth browsing experience.
@@ -29,14 +28,11 @@ Welcome to **MyFlix** – a sleek, responsive movie app where you can discover p
 
 ```bash
 # Clone the project
-git clone https://github.com/your-username/myflix.git
+git clone https://github.com/zakariaeheddaje/myflix.git
 cd myflix
 
 # Install dependencies
 npm install
-
-# Add your TMDb API key
-echo "VITE_TMDB_API_KEY=your_tmdb_api_key" > .env
 
 # Start development server
 npm run dev
@@ -44,15 +40,10 @@ npm run dev
 
 ---
 
-## 🖼️ Screenshots
-
-> *(Optional)* Add screenshots in a `screenshots/` folder and link them here for visual preview.
-
----
 
 ## 📦 Deployment
 
-Deployed with [Vercel](https://vercel.com/). You can fork this repo, connect it to your Vercel account, and deploy instantly.
+Deployed with [Vercel](https://vercel.com/).
 
 ---
 
@@ -60,8 +51,8 @@ Deployed with [Vercel](https://vercel.com/). You can fork this repo, connect it 
 
 **Zakariae Heddaje**
 🎨 Frontend Developer & Movie Enthusiast
-🌐 \[Your Website or Portfolio]
-📫 \[Your Email or LinkedIn]
+🌐 \zakariaeheddaje.vercel.app
+📫 \zakariaeheddaje@gmail.com
 
 ---
 
